@@ -1,4 +1,4 @@
-# About Me
+# 🤓 About Me
 
 Hello! 👋 I'm Valentin, a passionate Python JSE based in London, England. Here's a bit about me:
 
