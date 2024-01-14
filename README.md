@@ -11,9 +11,9 @@ Hello! 👋 I'm Valentin, a passionate Python JSE based in London, England. Here
 
 ## 🔧 Skills
 
-- <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-- <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-- <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+- [<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">]
+- [<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">]
+- [<img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">]
 
 ## 🌐 Connect with Me
 
