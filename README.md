@@ -22,8 +22,8 @@ Hey there! I'm Valentin, a passionate Python sorcerer and software engineer base
 
 ## 🚀 Projects Showcase
 
-- [Minesweeper](https://github.com/KValentiin/Minesweeper): A terminal-based Python implementation of the classic game Minesweeper.
-- [Task Manager](https://github.com/KValentiin/Task-Manager): Register new accounts, add tasks, view tasks, and generate reports.
+- [Minesweeper](https://github.com/KValentiin/Minesweeper) : A terminal-based Python implementation of the classic game Minesweeper.
+- [Task Manager](https://github.com/KValentiin/Task-Manager) : Register new accounts, add tasks, view tasks, and generate reports.
 - ...
 
 
